@@ -30,3 +30,6 @@ print(cv2.COLOR_BGR2RGB) # 4
 plt.imshow(img) # cv2.imshowメソッドよりもmatplotlibのimshowメソッドで画像を表示する方が良い。
 
 ```
+
+
+README
