@@ -33,3 +33,12 @@ plt.imshow(img) # cv2.imshowメソッドよりもmatplotlibのimshowメソッド
 
 
 README
+
+## 開発環境構築
+
+```bash
+$ git clone git@github.com:gonzaemon111/python-transformation.git
+$ cd python-transformation
+https://waseda.app.box.com/folder/96315617308にアクセスしてdev_images.zipをダウンロード
+$ jupyter lab
+```
